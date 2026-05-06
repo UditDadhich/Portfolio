@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import LeetCodeStats from "../components/LeetCodeStats";
 import {
   FaGithub,
   FaCode,
