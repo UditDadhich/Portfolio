@@ -1,6 +1,5 @@
 import Navbar from "./components/Navbar";
 import BackgroundGlow from "./components/BackgroundGlow";
-import ParticlesBackground from "./components/ParticlesBackground";
 import CursorGlow from "./components/CursorGlow";
 import ScrollProgress from "./components/ScrollProgress";
 
@@ -22,8 +21,6 @@ function App() {
       <ScrollProgress />
 
       <CursorGlow />
-
-      <ParticlesBackground />
 
       <BackgroundGlow />
 
